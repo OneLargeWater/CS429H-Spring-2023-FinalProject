@@ -1,2 +1,5 @@
 # CS429H-Spring-2023-FinalProject
  
+Names: Raghav Rangan (raghavvr), Arthur Zhang (endian), Aman Tewari (amana)
+
+This GitHub Repository contains all of the files pertaining to our final project for CS429H: Honors Computer Architecture, Spring 2023. Our project explored mechanical logic, and we designed various mechanical systems to represent binary logic, including mechanical AND, OR, NOT, and NOR gates. Our work culminated with the design and simulation of an n-bit mechanical full adder based entirely on 2-input, 1-output NOR gates. This repository contains the videos of the simulations, the raw simulation files, our final presentations, 3D files of the components we designed with CAD software, and images of 3D-printed prototype components that verified the physical funtionality of our design.
